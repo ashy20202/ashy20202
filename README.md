@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ashy20202
+- 👀 I’m interested in anime
+- 🌱 I’m currently learning c#
